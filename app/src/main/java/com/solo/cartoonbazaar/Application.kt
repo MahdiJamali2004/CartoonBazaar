@@ -12,7 +12,5 @@ class Application : Application() {
         super.onCreate()
         Adivery.configure(this, ADIVERY_APPLICATION_KEY)
         Adivery.setLoggingEnabled(true)
-//        Adivery.prepareInterstitialAd(this, ADIVERY_INTERSTITIAL_KEY)
-
     }
 }

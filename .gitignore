@@ -13,3 +13,4 @@
 .externalNativeBuild
 .cxx
 local.properties
+com.solo.cartoonbazaar/presentation/util/Constants
