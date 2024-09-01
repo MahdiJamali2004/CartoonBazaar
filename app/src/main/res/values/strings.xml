@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">cartoon bazar</string>
+    <string name="cartoon_bazaar">کارتون بازار</string>
+    <string name="setting">setting</string>
+    <string name="cartoon_description">cartoon</string>
+    <string name="internet_warning_title">اینترنت متصل نیست</string>
+    <string name="internet_warning_description">برای تماشای ویدئو لطفا به اینترنت متصل شوید</string>
+    <string name="ok">باشه</string>
+    <string name="nazarat">کارتون های پیشنهادی خود را در نظرات بنویسید تا در آپدیت های بعدی قرار گیرد</string>
+</resources>

@@ -1,0 +1,47 @@
+package com.solo.cartoonbazaar.data.remote.CartoonDto
+
+import kotlinx.serialization.Serializable
+
+@Serializable
+data class Video(
+    val `360d`: Boolean,
+    val autoplay: Boolean,
+    val big_poster: String,
+    val can_download: Boolean,
+    val cat_id: Int,
+    val cat_name: String,
+    val cat_name_en: String,
+    val cost_type: CostType,
+    val create_date: String,
+    val deleteurl: String,
+    val description: String,
+    val duration: Int,
+    val file_link: String,
+    val file_link_all: List<FileLinkAll>,
+    val follow_link: String,
+    val follow_status: String,
+    val frame: String,
+    val has_comment: String,
+    val has_comment_txt: String,
+    val id: String,
+    val ip_address: String,
+    val like_cnt: Int,
+    val official: String,
+    val playeradvertcornel: String,
+    val process: String,
+    val profilePhoto: String,
+    val sdate: String,
+    val sdate_timediff: Int,
+    val sender_name: String,
+    val size: String,
+    val small_poster: String,
+    val tag_str: String,
+    val tags: List<Tag>,
+    val title: String,
+    val uid: String,
+    val userid: String,
+    val username: String,
+    val video_date_status: String,
+    val visit_cnt: Int,
+    val watch_action: WatchAction
+)
