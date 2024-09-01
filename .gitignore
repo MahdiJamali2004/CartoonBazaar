@@ -13,4 +13,4 @@
 .externalNativeBuild
 .cxx
 local.properties
-com.solo.cartoonbazaar/presentation/util/Constants.kt
+app/src/main/java/com/solo/cartoonbazaar/presentation/util/Constants.kt
